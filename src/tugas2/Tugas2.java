@@ -35,7 +35,6 @@ int digit2 = input % 10;
 int randomNumber1 = randomOutput / 10;
 int randomNumber2 = randomOutput % 10;
 
-
     if(randomOutput == input)
     {
         System.out.println("Congratulations you won $10,000");
